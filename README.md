@@ -62,3 +62,4 @@ line.
 
 ![star cluster](https://github.com/georgeh1ll/N-Body-Gravity-Simulator/assets/11806169/843ddb1f-82d1-4582-a13f-1ec8c1b01d43)
 
+![coords](https://github.com/georgeh1ll/N-Body-Gravity-Simulator/assets/11806169/a9d15833-e037-4f30-b296-593a143510bb)

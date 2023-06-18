@@ -60,4 +60,5 @@ line.
 
     -masses= random masses of each object uniformly distributed between two limits in terms of solar masses. 
 
+![star cluster](https://github.com/georgeh1ll/N-Body-Gravity-Simulator/assets/11806169/843ddb1f-82d1-4582-a13f-1ec8c1b01d43)
 
